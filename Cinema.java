@@ -1,9 +1,4 @@
 /*
-A simple command line Java program that
-simulates a
-ticket buying interface
-for a cinema room.
-
 *The maximum limit for number of rows/columns is 99, otherwise formatting problems will occur
 
 S = seat(available for purchase)
