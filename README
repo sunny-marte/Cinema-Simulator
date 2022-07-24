@@ -1,0 +1,5 @@
+This is a base project that was assigned to me during the Java for Beginners Course by JetBrains Academy.
+I added some aditional features alongside the default ones required by the course, such as: the ability to buy an entire row, 
+the ability to buy the entire room at once, and the ability to display 99 seats/columns instead of 9.
+
+It's a simple command line program and pretty straightforward.
